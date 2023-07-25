@@ -1,0 +1,35 @@
+C:\Users\User\Desktop\Homework Methods Services\Methods Services\Methods Services\obj\Debug\net6.0\Methods Services.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Homework Methods Services\Methods Services\Methods Services\obj\Debug\net6.0\Methods Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Homework Methods Services\Methods Services\Methods Services\obj\Debug\net6.0\Methods Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Homework Methods Services\Methods Services\Methods Services\obj\Debug\net6.0\Methods Services.AssemblyInfo.cs
+C:\Users\User\Desktop\Homework Methods Services\Methods Services\Methods Services\obj\Debug\net6.0\Methods Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homework Methods Services\Methods Services\Methods Services\bin\Debug\net6.0\Methods Services.exe
+C:\Users\User\Desktop\Homework Methods Services\Methods Services\Methods Services\bin\Debug\net6.0\Methods Services.deps.json
+C:\Users\User\Desktop\Homework Methods Services\Methods Services\Methods Services\bin\Debug\net6.0\Methods Services.runtimeconfig.json
+C:\Users\User\Desktop\Homework Methods Services\Methods Services\Methods Services\bin\Debug\net6.0\Methods Services.dll
+C:\Users\User\Desktop\Homework Methods Services\Methods Services\Methods Services\bin\Debug\net6.0\Methods Services.pdb
+C:\Users\User\Desktop\Homework Methods Services\Methods Services\Methods Services\obj\Debug\net6.0\Methods Services.dll
+C:\Users\User\Desktop\Homework Methods Services\Methods Services\Methods Services\obj\Debug\net6.0\refint\Methods Services.dll
+C:\Users\User\Desktop\Homework Methods Services\Methods Services\Methods Services\obj\Debug\net6.0\Methods Services.pdb
+C:\Users\User\Desktop\Homework Methods Services\Methods Services\Methods Services\obj\Debug\net6.0\Methods Services.genruntimeconfig.cache
+C:\Users\User\Desktop\Homework Methods Services\Methods Services\Methods Services\obj\Debug\net6.0\ref\Methods Services.dll
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\bin\Debug\net6.0\Methods Services.exe
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\bin\Debug\net6.0\Methods Services.deps.json
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\bin\Debug\net6.0\Methods Services.runtimeconfig.json
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\bin\Debug\net6.0\Methods Services.dll
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\bin\Debug\net6.0\Methods Services.pdb
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\bin\Debug\net6.0\Domain.dll
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\bin\Debug\net6.0\Service.dll
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\bin\Debug\net6.0\Service.pdb
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\bin\Debug\net6.0\Domain.pdb
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\obj\Debug\net6.0\Methods Services.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\obj\Debug\net6.0\Methods Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\obj\Debug\net6.0\Methods Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\obj\Debug\net6.0\Methods Services.AssemblyInfo.cs
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\obj\Debug\net6.0\Methods Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\obj\Debug\net6.0\Methods Services.csproj.CopyComplete
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\obj\Debug\net6.0\Methods Services.dll
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\obj\Debug\net6.0\refint\Methods Services.dll
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\obj\Debug\net6.0\Methods Services.pdb
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\obj\Debug\net6.0\Methods Services.genruntimeconfig.cache
+C:\Users\User\Desktop\Repeat 25.07.2023\Methods Services\obj\Debug\net6.0\ref\Methods Services.dll

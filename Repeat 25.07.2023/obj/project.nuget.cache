@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "i6Fm9z6wOCLQCeBQ1AbdVHjM4zfsaJA9F1zME9dUcZtaKsbTgAqMKTrpiVRHazdmPrtF73QTEvVXTB2i7MT57w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Repeat 25.07.2023\\Methods Services.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\User\\Desktop\\Service\\Service.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\User\\Desktop\\Service\\Service.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
